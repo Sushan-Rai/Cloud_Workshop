@@ -1,4 +1,4 @@
-var i = "Shamanth";
+var i = "Shamant";
 var j = "Venkatesh";
 console.log(i+j);
 console.log("loadbalancers v1");
